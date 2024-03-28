@@ -1,13 +1,3 @@
-/* Simon Hamilton	0287046
-   Computer Programming II
-   Module 5: Stack
-   Create a program that will allow
-   for push, pop, list, and quit functions
-   utalizing a stack to do so.
-   Input src:	stdin
-   Output src:	stdout
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "boolean.h"
